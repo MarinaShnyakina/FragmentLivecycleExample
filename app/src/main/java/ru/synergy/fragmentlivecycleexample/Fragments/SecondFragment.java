@@ -1,5 +1,6 @@
 package ru.synergy.fragmentlivecycleexample.Fragments;
 
+
 import android.content.Context;
 import android.os.Bundle;
 import android.util.Log;
@@ -10,6 +11,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
+
 
 import ru.synergy.fragmentlivecycleexample.R;
 

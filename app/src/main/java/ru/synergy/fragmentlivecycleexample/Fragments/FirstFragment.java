@@ -3,8 +3,10 @@ package ru.synergy.fragmentlivecycleexample.Fragments;
 import android.content.Context;
 import android.os.Bundle;
 
+
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
+
 
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -128,5 +130,5 @@ public class FirstFragment extends Fragment {
         super.onDetach();
         Log.d(TAG, "onDetach");
     }
-    
+
 }
